@@ -1,6 +1,6 @@
 {
-  "name": "profanity-filter",
-  "version": "0.0.0",
+  "name": "@bananman/profanity-filter",
+  "version": "0.1.0",
   "description": "Allows you to scan and mask profanity in text. Also supports local South African profanity.",
   "main": "lib/index.js",
   "types": "lib",
